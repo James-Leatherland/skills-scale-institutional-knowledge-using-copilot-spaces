@@ -18,3 +18,5 @@ Quality assurance is embedded throughout the workflow with expectations for unit
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+
+<!-- training refresh -->
